@@ -23,3 +23,4 @@ for char2 in itertools.permutations(str_2):
         print(char2, "palindromo")
     else:
         print(char2)
+        print(char2)
